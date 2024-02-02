@@ -1,0 +1,6 @@
+dubbo:
+  application:
+    name: test
+  registry:
+    address: 172.16.3.100:8848
+    protocol: nacos
